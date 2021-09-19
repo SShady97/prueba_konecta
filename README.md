@@ -11,6 +11,6 @@ $docker-compose exec app php artisan migrate:fresh --seed
 URL:
 http://localhost:3000
 
-Usuario administrador: joseez182@gmail.com - Contraseña: Prueba1234
+Usuario administrador: joseez182@gmail.com - Contraseña: Prueba1234 \n
 Usuario general: jm@gmail.com - Contraseña: Prueba1234
 
